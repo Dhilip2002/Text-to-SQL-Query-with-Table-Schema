@@ -32,7 +32,7 @@ Columns:
 - vector (double precision[])
 ";
 
-    private static readonly string _connectionString = "Host=localhost;Database=jswealthai;Username=postgres;Password=Kgisl@12345";
+    private static readonly string _connectionString = "Host=localhost;Database=Your_Database_Name;Username=postgres;Password="Your_Password";
 
     static async Task Main(string[] args)
     {
